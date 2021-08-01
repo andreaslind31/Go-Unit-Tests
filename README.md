@@ -1,5 +1,10 @@
-# How to test the tests
+***Prerequisites***
+```
+go version
+```
+to check which version of Go you have. If Go is not installed: https://golang.org/
 
+# How to test the tests
 ```
 go test
 ```
